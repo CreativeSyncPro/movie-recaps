@@ -203,8 +203,8 @@ body {
 .middle-container {
     display: grid;
 /*    margin-right: 20px;*/
-    grid-template-columns: repeat(auto-fill, 300px); /* Set column width to 250px */
-    grid-auto-rows: 180px; /* Set row height to 150px */
+    grid-template-columns: repeat(auto-fill, 350px); /* Set column width to 250px */
+    grid-auto-rows:220px; /* Set row height to 150px */
     grid-gap: 1px;
     /*margin-left: 20px;
     margin-right: 20px;*/
